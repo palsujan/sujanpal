@@ -44,7 +44,8 @@ const Footer: React.FC = () => {
           </Copyright>
           
           <FooterCredit>
-            Made with <HeartIcon>{IconWrapper(FiHeart)}</HeartIcon> by Sujan Pal
+            Developed By
+            <HeartIcon>{IconWrapper(FiHeart)}</HeartIcon> by Sujan Pal
           </FooterCredit>
         </FooterBottom>
       </div>
