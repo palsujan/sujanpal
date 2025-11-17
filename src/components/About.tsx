@@ -27,7 +27,7 @@ const About: React.FC = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            <AboutHeading>Professional Web Developer & Designer</AboutHeading>
+            <AboutHeading>Professional Front-end Developer </AboutHeading>
             <AboutText>
                Front-end Developer with 4.7+ years of experience building scalable, responsive web and mobile applications using HTML5, CSS3, JavaScript, ReactJS, React Native, TypeScript, and SCSS. Proven expertise in delivering high-quality UIs for high-traffic products like Walmart , RummyCircle , and Wowzy Ludo 
             </AboutText>
@@ -38,7 +38,7 @@ const About: React.FC = () => {
               </InfoItem>
               <InfoItem>
                 <InfoLabel>Email:</InfoLabel>
-                <InfoValue>sujanpal79@.com</InfoValue>
+                <InfoValue>sujanpal79@gmail.com</InfoValue>
               </InfoItem>
               <InfoItem>
                 <InfoLabel>Location:</InfoLabel>
